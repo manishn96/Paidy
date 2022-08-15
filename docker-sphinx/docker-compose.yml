@@ -1,9 +1,0 @@
-version: '3'
-
-services:
-  sphinx:
-    image: manishn96/sphinx
-    volumes:
-      - ./docs:/docs
-    ports:
-      - 8000:8000
