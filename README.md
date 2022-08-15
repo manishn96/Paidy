@@ -58,6 +58,6 @@ docker container restart 544bdeb2984c
 Open a browser and navigate to `http://18.183.53.199/paidy_super_ai.html#paidy_super_ai.calculate_risk_score
 
 ### whitelist provided ip addresses
-We can whitelist provided ip address 60.125.0.0/16 and 152.165.0.0/16 by creating rule inside security group on your AWS VPC 
+We can whitelist provided ip address 60.125.0.0/16 and 152.165.0.0/16 by creating rule inside security group on your AWS VPC.
 
 ![image](https://user-images.githubusercontent.com/31979011/184686838-cb342038-170c-4480-b54f-b559b3c10d96.png)
