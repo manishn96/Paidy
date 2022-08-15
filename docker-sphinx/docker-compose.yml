@@ -2,7 +2,7 @@ version: '3'
 
 services:
   sphinx:
-    image: pardahlman/sphinx
+    image: manishn96/sphinx
     volumes:
       - ./docs:/docs
     ports:
