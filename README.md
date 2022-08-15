@@ -1,2 +1,0 @@
-# Paidy
-Paidy_assignment
